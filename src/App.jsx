@@ -2,10 +2,10 @@ import { useState } from 'react';
 import Search from './components/Search';
 import Weather from './components/Weather';
 
-import blackcloud from './assets/blackcloud.png';
-import clearsky from './assets/clearsky.png';
-import raining from './assets/raining.png';
-import sunshine from './assets/sunshine.png';
+import blackcloud from './assets/blackcloud.webp';
+import clearsky from './assets/clearsky.webp';
+import raining from './assets/raining.webp';
+import sunshine from './assets/sunshine.webp';
 import image from './assets/image.png';
 
 function App() {
